@@ -1,5 +1,5 @@
 
-#### Movie Recommender Based on Word Vector Similarity
+# Movie Recommender Based on Word Vector Similarity
 
 * This program is designed to recommend movies based on the similarity of their descriptions to a given input description. The system uses pre-trained word embeddings to convert the descriptions into word vectors and then calculates the cosine similarity between the input vector and all other movie vectors. The title of the movie with the highest similarity score is returned as the recommendation.
 
